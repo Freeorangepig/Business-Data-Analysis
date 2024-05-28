@@ -16,6 +16,8 @@ filtered_data2_processed5.xlsx：去掉了下单时间列，手动去除。
 
 split_on_category文件夹中的各excel文件都是按照类目来分开的，31个类目。由文件split_category.py执行。
 
+split_on_category_csv文件夹中的各csv文件由split_on_category文件夹中的各excel文件去掉第一行而成，由文件to_csv.py执行
+
 
 
 
